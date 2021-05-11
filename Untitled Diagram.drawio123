@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T03:10:05.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="-s9B8qX9WXg1u7GVFsDO" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T03:10:33.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="m-gAFqzwiXL7oTs_9c4r" version="14.6.11" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="1955" dy="1093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="WaMWmD_8LQIoXauNpyg--19" value="&lt;span style=&quot;font-size: 39px&quot;&gt;Admin增禁用户&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1992" y="868" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WaMWmD_8LQIoXauNpyg--20" value="&lt;span style=&quot;font-size: 39px&quot;&gt;AD域用户&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="764.9999999999999" y="320" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
